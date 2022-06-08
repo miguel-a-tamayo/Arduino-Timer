@@ -1,2 +1,2 @@
-# arduinoTimer
-This is the implementation of a timer using an Arduino Nano
+# PersonalProjects
+This is a repository dedicated to all my personal projects
