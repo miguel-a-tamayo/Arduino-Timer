@@ -1,0 +1,9 @@
+newmtl Default
+illum 2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.533333 0.533333
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+map_Kd ShuttleDiffuseMap.jpg

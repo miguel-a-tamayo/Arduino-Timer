@@ -233,9 +233,6 @@ void decrement() {
 void displaySeg() {
   uint8_t i, j; // iterators
 
-//  displayNum(0);
-//  digitalWrite(leds[0], HIGH);
-
   if (segsOn) {
     for (i = 0; i < SEGLEN; i++) { // iterate through segments to decide which one to turn on
       displayNum(numbers[i]);
