@@ -1,2 +1,6 @@
-# PersonalProjects
-This is a repository dedicated to all my personal projects
+# Arduino Timer
+
+## Instructions
+- Download the repository
+- Build the Circuit following the report in:
+- Upload the code to the arduino
